@@ -6,6 +6,6 @@ change 4 bug add
 change 5 bug fix
 modifing
 lu
-trying it ouy
+trying it out
 trting fetch
 
